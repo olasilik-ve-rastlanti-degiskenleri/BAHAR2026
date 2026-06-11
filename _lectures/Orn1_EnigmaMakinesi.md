@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2024-02-12T10:00:10+4:30 
-title: Örnek_1: Enigma Makinesi
+title: Örnek_1 Enigma Makinesi
 
 # optional
 # please use /static_files/notes directory to store notes
