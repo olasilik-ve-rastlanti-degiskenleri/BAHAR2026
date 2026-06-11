@@ -16,7 +16,7 @@ hide_from_announcments: false
 
 # optional
 links:
-    - url: https://docs.google.com/presentation/d/e/2PACX-1vTX_UOyNbHE90huOinJZNyfMsnhACsRoLeoqPrWxz9DYgqNy286pSGy3Vuzfbrsu2MV6MMYxo_oRoSN/pub?start=false&loop=false&delayms=60000
+    - url: https://gamma.app/docs/01-Sayma-soy3opoyh6ucyjj
       name: slaytlar
     
 
