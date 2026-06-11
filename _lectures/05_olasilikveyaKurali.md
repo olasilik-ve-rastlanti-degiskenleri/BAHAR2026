@@ -1,14 +1,14 @@
 ---
 type: lecture
 date: 2024-02-12T10:00:10+4:30 
-title: Sayma
+title: Olasılık: veya Kuralı
 
 # optional
 # please use /static_files/notes directory to store notes
 thumbnail: /_images/l1.png
 
 # optional
-tldr: İlk Sunu
+tldr: Beşinci Sunu
   
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
@@ -16,7 +16,7 @@ hide_from_announcments: false
 
 # optional
 links:
-    - url: https://gamma.app/docs/01-Sayma-soy3opoyh6ucyjj
+    - url: https://gamma.app/docs/05-Olaslk-veya-Kural-wzxnau4ljf5eohk
       name: slaytlar
     
 
